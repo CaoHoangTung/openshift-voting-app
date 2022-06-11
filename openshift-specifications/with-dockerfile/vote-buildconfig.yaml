@@ -10,7 +10,7 @@ spec:
   source:
     type: Git
     git:
-      uri: "https://github.com/CaoHoangTung/openshift-voting-app.git"
+      uri: "https://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/openshift-voting-app"
       ref: master
     contextDir: voting-app/vote
   output:
